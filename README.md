@@ -42,7 +42,7 @@ Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com
 
 ![calendario](https://user-images.githubusercontent.com/71100287/99732551-73be9000-2a9e-11eb-9adb-9b82aa0da6ec.png)
 
-Iriamos analisar o dados até a data das eleições municipais, porém, por conta do acidente no estado do Amapá que deixou a maior parte do estado sem energia e sem água, mantivemos nossa análise até o dia 3 de Outubro, data do fim do decreto e data do ocorrido. Como o objetivo é analisar e relacionar a influência das campanhas eleitorais nos casos da Covid-19,nós tomamos essa decisão porque acreditamos que esse acidente é um fator externo de maior grau que irá aumentar a incidência de casos, afetando na nossa análise.
+Iriamos analisar o dados até a data das eleições municipais, porém, por conta do acidente no estado do Amapá que deixou a maior parte do estado sem energia e sem água, mantivemos nossa análise até o dia 3 de Outubro, data do fim do decreto e data do ocorrido. Como o objetivo é analisar e relacionar a influência das campanhas eleitorais nos casos de Covid-19, nós tomamos essa decisão acreditando que esse acidente é um fator externo de maior grau que irá aumentar a incidência de casos, afetando na nossa análise.
 
 ## Dados Apresentados
 
