@@ -1,7 +1,14 @@
 
 # _Análise de Dados da Covid-19 em época de campanha eleitoral no estado do Amapá_
 
-> Status do Projeto: Em desenvolvimento :warning:
+### *FATEC SJC - 2020*
+
+👨🏽‍🏫 Professor Orientador: Fernando Masanori
+
+### ⚠️ Disclaimer / Aviso Legal:
+> Este notebook tem um fim único e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
+
+ > Status do Projeto: Em desenvolvimento :construction:
 
 ## Nesse trabalho você irá encontrar
 
