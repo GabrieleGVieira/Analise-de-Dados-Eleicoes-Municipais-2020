@@ -8,7 +8,7 @@
 - [Introdução](#introdução)
 - [Objetivo](#objetivo)
 - [Decreto Estadual](#decreto-estadual-no-3819)
-- [Periodos Análisados](#periodos-análisados)
+- [Periodos Análisados](#períodos-analisados)
 - [Dados](#dados-apresentados)
 - [Gráficos](#gráficos)
 - [Conclusão](#conclusão)
@@ -38,7 +38,7 @@ Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com
 
 [Acesso ao Decreto No 3819 do Governo do Estado do Amapá](https://drive.google.com/file/d/1ZyWpTOCcbYf54OCKzNTC4ZDvghZol1eh/view)
 
-## Períodos Análisados
+## Períodos Analisados
 
 ![calendario](https://user-images.githubusercontent.com/71100287/99732551-73be9000-2a9e-11eb-9adb-9b82aa0da6ec.png)
 
