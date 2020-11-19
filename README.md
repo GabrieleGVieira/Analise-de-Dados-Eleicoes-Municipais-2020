@@ -31,3 +31,5 @@ Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com
 > “Decreto ainda hoje (27) medidas que servem como regra para todo o estado do Amapá e, automaticamente, o prefeito Clécio, em Macapá, toma a mesma atitude. Alinhados, optamos por suspender por sete dias as atividades políticas públicas em ruas e avenidas, evitando aglomerações, bandeiradas, reuniões e afins por sete dias. Vamos suspender também o serviço público não essencial no âmbito do estado, a partir de amanhã (28); e começaremos a interferir nas atividades privadas não essenciais, diminuindo o horário de funcionamento, estabelecendo limites e em alguns casos suspendendo mesmo a atividade”
 *_Waldez Góes, Governador do Estado do Amapá_*
 
+[Acesso ao Decreto No 3819 do governo do Estado do Amapá](https://drive.google.com/file/d/1ZyWpTOCcbYf54OCKzNTC4ZDvghZol1eh/view)
+
