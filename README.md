@@ -1,14 +1,7 @@
 
 # _Análise de Dados da Covid-19 em época de campanha eleitoral no estado do Amapá_
 
-### *FATEC SJC - 2020*
-
-👨🏽‍🏫 Professor Orientador: Fernando Masanori
-
-### ⚠️ Disclaimer / Aviso Legal:
-> Este notebook tem um fim único e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
-
- > Status do Projeto: Em desenvolvimento :construction:
+> Status do Projeto: Em desenvolvimento :warning:
 
 ## Nesse trabalho você irá encontrar
 
@@ -52,7 +45,7 @@ Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com
 Iriamos analisar o dados até a data das eleições municipais, porém, por conta do acidente no estado do Amapá que deixou a maior parte do estado sem energia e sem água, mantivemos nossa análise até o dia 3 de Outubro, data do fim do decreto e data do ocorrido. Como o objetivo é analisar e relacionar a influência das campanhas eleitorais nos casos de Covid-19, nós tomamos essa decisão acreditando que esse acidente é um fator externo de maior grau que irá aumentar a incidência de casos, afetando na nossa análise.
 
 ## Dados Apresentados
-
+Fonte: [Portal do COVID-19](https://covid.saude.gov.br/)
 
 ## Gráficos
 
