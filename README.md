@@ -1,6 +1,21 @@
 
 # _Análise de Dados da Covid-19 em época de campanha eleitoral no estado do Amapá_
 
+> Status do Projeto: Em desenvolvimento :warning:
+
+## Nesse trabalho você irá encontrar
+
+- Introdução
+- Objetivo
+- Decreto No 3819
+- Periodos Análisados
+- Número de casos
+- Gráficos
+- Conclusão
+- Contribuintes
+
+
+
 ## Introdução
 
 No ano de 2020, o mundo parou devido a uma pandemia causada por uma doença denominada Covid-19, causada por um vírus da família dos coronavírus, o SARS-Cov-2. 
@@ -16,20 +31,16 @@ O governador do Amapá, Waldez Góe, tomou uma atitude diferenciada no decorrer 
 
 Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com o aumento de casos da Covid-19 no estado do Amapá, através da análise de dados dos casos registrados e da ocupação de leitos hospitalares antes e após o decreto estadual.
 
-## Nesse trabalho você irá encontrar
-
-- Introdução
-- Objetivo
-- Decreto No 3819
-- Periodos Eleitorais Análisados
-- Número de casos
-- Gráficos
-
-
 ## Decreto No 3819
 
 > “Decreto ainda hoje (27) medidas que servem como regra para todo o estado do Amapá e, automaticamente, o prefeito Clécio, em Macapá, toma a mesma atitude. Alinhados, optamos por suspender por sete dias as atividades políticas públicas em ruas e avenidas, evitando aglomerações, bandeiradas, reuniões e afins por sete dias. Vamos suspender também o serviço público não essencial no âmbito do estado, a partir de amanhã (28); e começaremos a interferir nas atividades privadas não essenciais, diminuindo o horário de funcionamento, estabelecendo limites e em alguns casos suspendendo mesmo a atividade”
 *_Waldez Góes, Governador do Estado do Amapá_*
 
-[Acesso ao Decreto No 3819 do governo do Estado do Amapá](https://drive.google.com/file/d/1ZyWpTOCcbYf54OCKzNTC4ZDvghZol1eh/view)
+[Acesso ao Decreto No 3819 do Governo do Estado do Amapá](https://drive.google.com/file/d/1ZyWpTOCcbYf54OCKzNTC4ZDvghZol1eh/view)
+
+## Periodos Análisados
+
+
+
+
 
