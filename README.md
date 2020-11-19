@@ -5,7 +5,7 @@
 
 ## Nesse trabalho você irá encontrar
 
-- Introdução
+* [Introdução](#introdução)
 - Objetivo
 - Decreto No 3819
 - Periodos Análisados
@@ -44,8 +44,7 @@ Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com
 
 [<img src="https://avatars1.githubusercontent.com/u/71100287?s=400&u=1c3492ca193736aafed77b90f5a49678dd50975e&v=4" width=115 > <br> <sub> Gabriele Vieira </sub>](https://github.com/GabrieleGVieira) |
 | :---: | 
-
 [<img src="https://avatars2.githubusercontent.com/u/72801105?s=400&u=f72042dd40d93e5b594b527b6605fcbd3669c510&v=4" width=115 > <br> <sub> Sarah Santana </sub>](https://github.com/Sarah781) |
-| :---: | 
+
 
 
