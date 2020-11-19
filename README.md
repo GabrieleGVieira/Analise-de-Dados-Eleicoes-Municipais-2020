@@ -12,7 +12,7 @@
 - Número de casos
 - Gráficos
 - Conclusão
-- Contribuintes
+- Desenvolvedoras
 
 
 
@@ -40,7 +40,12 @@ Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com
 
 ## Periodos Análisados
 
+## Desenvolvedoras
 
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> gabriele Vieira </sub>](https://github.com/GabrieleGVieira) |
+| :---: | 
 
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> gabriele Vieira </sub>](https://github.com/Sarah781) |
+| :---: | 
 
 
