@@ -1,0 +1,33 @@
+
+# _Análise de Dados da Covid-19 em época de campanha eleitoral no estado do Amapá_
+
+## Introdução
+
+No ano de 2020, o mundo parou devido a uma pandemia causada por uma doença denominada Covid-19, causada por um vírus da família dos coronavírus, o SARS-Cov-2. 
+No dia 11 de Março de 2020, a Organização Mundial da Saúde (OMS) declarou pandemia. Até o final de Março a doença atingiu o número de 846.577 casos confirmados e 41.944 mortes no mundo todo.
+Como forma de evitar a propagação do vírus, além de medidas sanitárias individuais, países do mundo todo optaram por Lockdown e fechamento de comércios não essênciais, inclusive o Brasil, a fim de diminuir a circulação de pessoas e controlar a transmissão.
+Porém, o ano de 2020 para os brasileiros, também é um ano de eleições municipais. Quando no inicio do segundo semetres de 2020 percebeu-se que a situação ainda não havia melhorado e que o país ainda enfrentava dificuldades para controlar a doença, foi levantado várias questões sobre como seriam as eleições.
+A primeira decisão ocorreu em Junho, quando o presidente do Tribunal Superior Eleitoral (TSE), ministro Luís Roberto Barroso, propos que as eleições fossem adiadas, em Julho foi decidido um novo calendário eleitoral, deixando de ser nos dias 4 e 25 de outubro, e passando a ocorrer nos dias 15 e 29 de Novembro.
+
+O governador do Amapá, Waldez Góe, tomou uma atitude diferenciada no decorrer do periodo eleitoral. Com o aumento de casos da Covid-19 no estado, o governador suspendeu atividades políticas presenciais, relacionando o inicio das campanhas eleitorais com o aumento de transmissão das doenças. Foi o único estado brasileiro a tomar esse tipo de atitude perante a pandemia.
+
+
+## Objetivo
+
+Este trabalho tem como objetivo relacionar o inicio das campanhas eleitorais com o aumento de casos da Covid-19 no estado do Amapá, através da análise de dados dos casos registrados e da ocupação de leitos hospitalares antes e após o decreto estadual.
+
+## Nesse trabalho você irá encontrar
+
+- Introdução
+- Objetivo
+- Decreto No 3819
+- Periodos Eleitorais Análisados
+- Número de casos
+- Gráficos
+
+
+## Decreto No 3819
+
+> “Decreto ainda hoje (27) medidas que servem como regra para todo o estado do Amapá e, automaticamente, o prefeito Clécio, em Macapá, toma a mesma atitude. Alinhados, optamos por suspender por sete dias as atividades políticas públicas em ruas e avenidas, evitando aglomerações, bandeiradas, reuniões e afins por sete dias. Vamos suspender também o serviço público não essencial no âmbito do estado, a partir de amanhã (28); e começaremos a interferir nas atividades privadas não essenciais, diminuindo o horário de funcionamento, estabelecendo limites e em alguns casos suspendendo mesmo a atividade”
+*_Waldez Góes, Governador do Estado do Amapá_*
+
