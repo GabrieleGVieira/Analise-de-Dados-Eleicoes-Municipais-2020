@@ -24,7 +24,7 @@ Porém, o ano de 2020 para os brasileiros, também é um ano de eleições munic
 
 ## Objetivo
 
-Este trabalho tem como objetivo analisar quais os municípios com o maior número de casos da COVID-19, a quantidade de eleitores com mais de 60 anos presentes nessas localidades, a porcentagem que eles representam do eleitorado total do município e comparecimento deles nas últimas eleições.  
+Este trabalho tem como objetivo analisar quais os municípios com o maior número de casos da COVID-19, a quantidade de eleitores com mais de 60 anos presentes nessas localidades, porque são considerados grupo de risco, a porcentagem que eles representam do eleitorado total do município e comparecimento deles nas últimas eleições.  
 
 ## Dados Apresentados
 Fonte: [Portal do COVID-19](https://covid.saude.gov.br/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
