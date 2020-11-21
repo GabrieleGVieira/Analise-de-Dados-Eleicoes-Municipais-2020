@@ -28,6 +28,7 @@ Fonte: [Portal do COVID-19](https://covid.saude.gov.br/) e [Portal do TSE](https
 
 ## Municípios com Maior Número de Casos
 
+
 ## Eleitorado do Grupo de Risco
 
 ## Conclusão
