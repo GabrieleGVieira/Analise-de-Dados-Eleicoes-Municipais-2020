@@ -7,6 +7,9 @@
 
 - [Introdução](#introdução)
 - [Objetivo](#objetivo)
+- [Dados Apresentados](#dados-apresentados)
+- [Municípios](#municípios-com-maior-número-de-casos)
+- [Eleitorado](#eleitorado-do-grupo-de-risco)
 - [Conclusão](#conclusão)
 - [Desenvolvedoras](#desenvolvedoras)
 
@@ -28,6 +31,11 @@ Fonte: [Portal do COVID-19](https://covid.saude.gov.br/) e [Portal do TSE](https
 
 ## Municípios com Maior Número de Casos
 
+As 7 cidades com maior número de casos confirmados de COVID-19 são:
+
+![Cidades](https://user-images.githubusercontent.com/71100287/99887745-a6df5b80-2c25-11eb-94ae-f1a1171687f3.png)
+
+Para essa análise nós iremos desconsiderar a cidade de Brasília, porque não há votação municipal no Distrito Federal.
 
 ## Eleitorado do Grupo de Risco
 
