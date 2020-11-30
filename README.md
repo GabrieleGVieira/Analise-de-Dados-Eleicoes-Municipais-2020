@@ -28,7 +28,7 @@ Porém, o ano de 2020 para os brasileiros, também é um ano de eleições munic
 Este trabalho tem como objetivo analisar quais são os estados com o maior número de casos da COVID-19, no maior estado, quais são os municípios com o maior número de casos, a quantidade de eleitores com mais de 60 anos presentes nessas localidades, porque são considerados grupo de risco, a porcentagem que eles representam do eleitorado total do município. Afim de ter um análise sobre o possível grau do risco de contágio para esses eleitores no dia das eleições.
 
 ## Dados Apresentados
-Fonte: [Portal do COVID-19](https://covid.saude.gov.br/),[Governo do Estado de São Paulo](https://www.seade.gov.br/coronavirus/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
+Fonte: [Portal do COVID-19](https://covid.saude.gov.br/), [Governo do Estado de São Paulo](https://www.seade.gov.br/coronavirus/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
 
 ## Estados com Maior Número de Casos
 
