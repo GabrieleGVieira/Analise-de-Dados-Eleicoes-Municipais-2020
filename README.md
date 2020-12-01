@@ -33,7 +33,7 @@ Essas análises foram feitas afim de ressaltar a necessidade de uma ação estra
 
 Fonte: [Portal do COVID-19](https://covid.saude.gov.br/), [SEADE](https://www.seade.gov.br/coronavirus/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
 
-[Dados utilizado]()
+[Dados utilizados]()
 
 
 Data dos dados sobre COVID-19: 19/Nov/2020
