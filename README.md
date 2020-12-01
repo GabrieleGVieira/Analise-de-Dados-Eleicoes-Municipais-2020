@@ -71,7 +71,7 @@ Como esperado, São Paulo é a cidade com o maior número de eleitores idosos, i
 
 ## Percentual da idade dos eleitores
 
-[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/delete/main/Jupyter%20Notebook/pasta)
+[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/SegundaParte.ipynb)
 
 <img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.sp.png" width=700 > <br> <sub> Cidade de São Paulo </sub> | [<img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.camp" width=700> <br> <sub> Cidade de Campinas </sub>] |
 | :---: | :---: | 
