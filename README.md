@@ -11,6 +11,7 @@
 - [Estados](#estados-com-maior-número-de-casos)
 - [Mapa de Casos por Município](#mapa-de-casos-por-município)
 - [Eleitorado](#eleitorado-do-grupo-de-risco)
+- [Percentual de Eleitores](#percentual-da-idade-dos-eleitores)
 - [Conclusão](#conclusão)
 - [Desenvolvedoras](#desenvolvedoras)
 
@@ -25,18 +26,64 @@ Porém, o ano de 2020 para os brasileiros, também é um ano de eleições munic
 
 ## Objetivo
 
-Este trabalho tem como objetivo analisar quais são os estados com o maior número de casos da COVID-19, no maior estado, quais são os municípios com o maior número de casos, a quantidade de eleitores com mais de 60 anos presentes nessas localidades, porque são considerados grupo de risco, a porcentagem que eles representam do eleitorado total do município. Afim de ter um análise sobre o possível grau do risco de contágio para esses eleitores no dia das eleições.
+Esse trabalho está divido em duas partes. A primeira com o objetivo de analisar o estado com maior número de casos da COVID-19 e também os seus municípios. A segunda parte tem o objetivo de analisar a quantidade de eleitores com mais de 60 anos nessas cidades, e a porcentagem que eles representam em todo o eleitorado.
 
 ## Dados Apresentados
 Fonte: [Portal do COVID-19](https://covid.saude.gov.br/), [SEADE](https://www.seade.gov.br/coronavirus/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
 
 ## Estados com Maior Número de Casos
 
+[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/PrimeiraParte.ipynb)
+
 Os 5 estados com maior número de casos confirmados de COVID-19 são:
+
+![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/estados.graf.png)
+
+O estado de São Paulo se destacou demais em relação aos outros estados com maior número de casos, porém como os valores dos outros estados está próximo, segue o DataFrame para melhor visualização.
+
+![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/estados.covid.png?raw=true)
 
 ## Mapa de Casos por Município
 
+[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/PrimeiraParte.ipynb)
+
+Os 5 municípios de São Paulo com maior número de casos são:
+
+![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/cidades.graf.png)
+
+Assim como o gráfico anterior, a cidade de São Paulo se destaca a frente das outras cidades, enquanto essas aparentam valores bem próximos. 
+
+![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/cidades.covid.png)
+
 ## Eleitorado do Grupo de Risco
+
+[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/delete/main/Jupyter%20Notebook/pasta)
+
+A quantidade de eleitores com mais de 60 anos pode ser análisada pelo gráfico a seguir
+
+![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/eleitores.idosos.png)
+
+O gráfico nos aponta uma diferença bem grande entre a cidade de São Paulo e as outras cidades. Porém, as nossas outras quatro cidades estão com valores aproximados, por isso iremos analisar os valores no DataFrame.
+
+![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/tabela.eleitores.png)
+
+Como esperado, São Paulo é a cidade com o maior número de eleitores idosos, isso provavelmente se deve a quantidade de pessoas que residem na cidade, que é um número bem maior comparado as outras. Por conta disso, também iremos analisar as cidades separadamente, relacionando a porcentagem de idosos para o número total de eleitores.
+
+## Percentual da idade dos eleitores
+
+[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/delete/main/Jupyter%20Notebook/pasta)
+
+<img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.sp.png" width=700 > <br> <sub> Cidade de São Paulo </sub> | [<img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.camp" width=700> <br> <sub> Cidade de Campinas </sub>] |
+| :---: | :---: | 
+
+<img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.sjrp.png" width=700 > <br> <sub> Cidade de São José do Rio Preto </sub> | [<img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.sbc.png" width=700> <br> <sub> Cidade de São Bernardo do Campo </sub>|
+| :---: | :---: |
+
+
+<img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.rp.png" width=450 > <br> <sub> Cidade de Ribeirão Preto </sub> | 
+| :---: | 
+
+
 
 ## Conclusão
 
