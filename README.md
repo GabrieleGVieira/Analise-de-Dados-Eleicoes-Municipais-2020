@@ -39,7 +39,7 @@ Os 5 estados com maior número de casos confirmados de COVID-19 são:
 
 ![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/estados.graf.png)
 
-O estado de São Paulo se destacou demais em relação aos outros estados com maior número de casos, porém como os valores dos outros estados está próximo, segue o DataFrame para melhor visualização.
+O estado de São Paulo se destacou demais em relação aos outros estados com maior número de casos, porém como os valores dos outros estados estão próximos, segue o DataFrame para melhor visualização.
 
 ![alt text](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/estados.covid.png?raw=true)
 
