@@ -33,7 +33,7 @@ Fonte: [Portal do COVID-19](https://covid.saude.gov.br/), [SEADE](https://www.se
 
 ## Estados com Maior Número de Casos
 
-[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/PrimeiraParte.ipynb)
+[Código disponível aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/PrimeiraParte.ipynb)
 
 Os 5 estados com maior número de casos confirmados de COVID-19 são:
 
@@ -45,7 +45,7 @@ O estado de São Paulo se destacou demais em relação aos outros estados com ma
 
 ## Mapa de Casos por Município
 
-[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/PrimeiraParte.ipynb)
+[Código disponível aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/PrimeiraParte.ipynb)
 
 Os 5 municípios de São Paulo com maior número de casos são:
 
@@ -57,7 +57,7 @@ Assim como o gráfico anterior, a cidade de São Paulo se destaca a frente das o
 
 ## Eleitorado do Grupo de Risco
 
-[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/delete/main/Jupyter%20Notebook/pasta)
+[Código disponível aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/delete/main/Jupyter%20Notebook/pasta)
 
 A quantidade de eleitores com mais de 60 anos pode ser análisada pelo gráfico a seguir
 
@@ -71,7 +71,7 @@ Como esperado, São Paulo é a cidade com o maior número de eleitores idosos, i
 
 ## Percentual da idade dos eleitores
 
-[Código disponivel aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/SegundaParte.ipynb)
+[Código disponível aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/SegundaParte.ipynb)
 
 <img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.sp.png" width=700 > <br> <sub> Cidade de São Paulo </sub> | <img src="https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/img/idosos.camp" width=700> <br> <sub> Cidade de Campinas </sub>] |
 | :---: | :---: | 
