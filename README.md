@@ -64,7 +64,7 @@ Assim como o gráfico anterior, a cidade de São Paulo se destaca a frente das o
 
 ## Eleitorado do Grupo de Risco
 
-[Código disponível aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/delete/main/Jupyter%20Notebook/pasta)
+[Código disponível aqui](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/blob/main/Jupyter%20Notebook/SegundaParte.ipynb)
 
 A quantidade de eleitores com mais de 60 anos pode ser análisada pelo gráfico a seguir
 
