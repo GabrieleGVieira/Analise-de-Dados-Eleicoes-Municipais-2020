@@ -33,7 +33,7 @@ Essas análises foram feitas afim de ressaltar a necessidade de uma ação estra
 
 Fonte: [Portal do COVID-19](https://covid.saude.gov.br/), [SEADE](https://www.seade.gov.br/coronavirus/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
 
-[Dados utilizados]()
+[Alguns dos dados utilizados](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/tree/main/cvs)
 
 
 Data dos dados sobre COVID-19: 19/Nov/2020
@@ -91,8 +91,11 @@ Como esperado, São Paulo é a cidade com o maior número de eleitores idosos, i
 | :---: | 
 
 
+Diferente do outro gráfico, ao analisarmos cada cidade separadamente, vemos que a quantidade de eleitores idosos em relação ao número total de eleitores ficaram muito próximos uma das outras, com uma diferença até descartavél. E em todas as cidade, podemos perceber que o grupo de eleitores idosos representam mais da metade do eleitorado total.
 
 ## Conclusão
+
+Vale resaltar que, o voto para quem tem mais de 60 anos não é obrigatório, porém votar é um direito civil de todos os cidadãos, e fazer isso com segurança também é. O fato de estarmos em uma pandemia em um ano eleitoral não muda isso, mas nos obriga a nos adaptarmos para essa situação. Tendo visto que, mais de 50% do eleitorado em cidades com alto indice de casos da COVID-19 tem mais de 60 anos, sendo esses classificados como grupo de risco, se torna necessário medidas especiais para manter a segurança desse grupo no ambiente de votação, afim de diminuir o risco de exposição ao vírus. Essas medidas irão influenciar principalmente na decisão desses eleitores em ir votar, evitando assim uma grande evasão eleitoral. Então,além de campanhas de conscientização sobre as medidas de proteção, o fato do horário de votação iniciar mais cedo e com um horário especial para os idosos, determinado pela Justiça Eleitoral, tem um enorme valor no combate a essa evasão e no dever de oferecer segurança na hora de exercer o direito de votar. 
 
 ## Desenvolvedoras
 
