@@ -3,6 +3,8 @@
 
 > Status do Projeto: Concluído ✅
 
+> Orientador: Profº Fernando Masanori 👨‍🏫
+
 ## Nesse trabalho você irá encontrar
 
 - [Introdução](#introdução)
