@@ -1,7 +1,7 @@
 
 # _Análise de Dados - Eleições Municipais 2020_
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Concluído ✅
 
 ## Nesse trabalho você irá encontrar
 
@@ -32,9 +32,6 @@ Essas análises foram feitas afim de ressaltar a necessidade de uma ação estra
 ## Dados Apresentados
 
 Fonte: [Portal do COVID-19](https://covid.saude.gov.br/), [SEADE](https://www.seade.gov.br/coronavirus/) e [Portal do TSE](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html)
-
-[Alguns dos dados utilizados](https://github.com/GabrieleGVieira/Analise-de-Dados-Eleicoes-Municipais-2020/tree/main/cvs)
-
 
 Data dos dados sobre COVID-19: 19/Nov/2020
 
