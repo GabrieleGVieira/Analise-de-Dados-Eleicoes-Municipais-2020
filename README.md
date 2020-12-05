@@ -5,7 +5,9 @@
 
 > Orientador: Profº Fernando Masanori 👨‍🏫
 
-## Nesse trabalho você irá encontrar
+> Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal 🏫
+
+## Nesse trabalho você irá encontrar 
 
 - [Introdução](#introdução)
 - [Objetivo](#objetivo)
